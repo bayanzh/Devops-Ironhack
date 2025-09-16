@@ -3,11 +3,12 @@
 # Deploy a standalone PostgresDb
 
 
-!(./2-Lab1.png)
+![Lab1 ](./2-Lab1.png)
 
-!(./2.1-Lab2.png)
+![Lab1 ](./2.1-Lab1.png)
 
-!(./2.2-Lab2.png)
+![Lab1 ](./2.2-Lab1.png)
+
 
 
 
