@@ -7,7 +7,7 @@
 
 ![Lab1 ](./2.1Lab1.png)
 
-![Lab1 ](./2.2Lab1.png)
+![Lab1 ](./2.3Lab1.png)
 
 
 
