@@ -2,10 +2,9 @@
 # Lab 4
 # Setup Sonarqube
 
+![SonarQube Setup 1](./Screenshot 2025-09-28 113648.png)  
 
-![Lab 1](./Screenshot 2025-09-28 113648.png)
-![Lab 1](./Screenshot 2025-09-28 113730.png)
-
+![SonarQube Setup 2](./Screenshot 2025-09-28 113730.png)  
 
 
 
