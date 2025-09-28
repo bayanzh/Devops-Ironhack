@@ -4,7 +4,7 @@
 
 
 ![Lab 1](./Screenshot 2025-09-28 113648.png)
-![Lab 1](./Screenshot 2025-09-28 113730.p)
+![Lab 1](./Screenshot 2025-09-28 113730.png)
 
 
 
