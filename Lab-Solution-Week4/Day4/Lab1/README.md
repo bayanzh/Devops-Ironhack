@@ -2,8 +2,4 @@
 ## Lab 1
 ### Provision a Linux VM on Azure using Azure CLI 
 
-![Screenshot 1](Screenshot%202025-09-29%134332.png)
-
-
-
-
+![Screenshot 1](Screenshot%202025-09-29%20134332.png)
