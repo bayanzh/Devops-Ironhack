@@ -2,7 +2,5 @@
 ## Lab 2
 ### Get Hands-On with kubectl and Launch Your First Pod (NGINX)
 
-![Screenshot 2025-10-12 132642](./Screenshot%202025-10-12%20132642.png)
-
-![Screenshot 2025-10-12 132657](./Screenshot%202025-10-12%20132657.png)
+![Screenshot 2025-10-13 185354](./Screenshot%202025-10-13%20185354.png)
 
